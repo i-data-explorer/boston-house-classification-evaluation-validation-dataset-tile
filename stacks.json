@@ -1,0 +1,19 @@
+{
+    "title": "Boston House Classification Evaluation Validation",
+    "description": "Dataset for Boston House Classification Evaluation Validation",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Dataset"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "boston_house_classification_evaluation_validation_dataset",
+    "categories": [
+        "Real Estate"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+}
