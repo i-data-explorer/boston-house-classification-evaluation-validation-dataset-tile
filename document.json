@@ -1,9 +1,9 @@
 {
-    "name": "Boston House Classification Evaluation Validation Dataset",
-    "description": "Dataset for Boston House Classification Evaluation Validation",
+    "name": "Boston House Prediction Evaluation Validation Dataset",
+    "description": "Dataset for Boston House Prediction Evaluation Validation",
     "logo": "_images/dataset.png",
     "has_supporting_content": false,
-    "de_catalog_id": "boston_house_classification_evaluation_validation_dataset",
+    "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
     "source_repo": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset.git",
     "cover": "cover.md",
     "meta": {
@@ -20,7 +20,7 @@
             "Real Estate"
         ],
         "Catalog Id": [
-            "boston_house_classification_evaluation_validation_dataset"
+            "boston_house_prediction_evaluation_validation_dataset"
         ]
     }
 }
